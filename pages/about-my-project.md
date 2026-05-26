@@ -7,8 +7,8 @@ subtitle: Post-Disaster Building Damage Assessment AI
 project_title: "My SEAMLS 2026 Summer Research Project"
 
 problem: |
- 
-  Natural disasters such as hurricanes and earthquakes can cause severe structural damage to buildings, making it difficult for emergency responders to quickly determine which structures are safe or unsafe. Traditional building inspections often require trained professionals to manually assess damage, which can be time-consuming during emergencies when rapid decision-making is critical. Delays in assessment can increase safety risks for both responders and affected communities.
+
+Natural disasters such as hurricanes and earthquakes can cause severe structural damage to buildings, making it difficult for emergency responders to quickly determine which structures are safe or unsafe. Traditional building inspections often require trained professionals to manually assess damage, which can be time-consuming during emergencies when rapid decision-making is critical. Delays in assessment can increase safety risks for both responders and affected communities.
 
 This project addresses the need for a faster and more efficient way to evaluate structural damage after disasters. Current assessment methods can be limited by human workload, accessibility challenges, and the large number of buildings that may require inspection after a disaster. By using artificial intelligence and computer vision, this project aims to support emergency response teams with automated damage classification tools that can improve the speed and consistency of post-disaster assessments.
 
