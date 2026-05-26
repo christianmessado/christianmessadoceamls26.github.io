@@ -3,31 +3,25 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+subtitle: Post-Disaster Building Damage Assessment AI
+project_title: "My SEAMLS 2026 Summer Research Project"
 
 problem: |
-  Briefly describe the problem your project tackles. Who is affected? Why does this
-  matter? What gap or limitation are you trying to address?
+ 
+  Natural disasters such as hurricanes and earthquakes can cause severe structural damage to buildings, making it difficult for emergency responders to quickly determine which structures are safe or unsafe. Traditional building inspections often require trained professionals to manually assess damage, which can be time-consuming during emergencies when rapid decision-making is critical. Delays in assessment can increase safety risks for both responders and affected communities.
 
-  Aim for two to three short paragraphs. Plain language is great — your audience
-  may not be specialists in your sub-field.
+This project addresses the need for a faster and more efficient way to evaluate structural damage after disasters. Current assessment methods can be limited by human workload, accessibility challenges, and the large number of buildings that may require inspection after a disaster. By using artificial intelligence and computer vision, this project aims to support emergency response teams with automated damage classification tools that can improve the speed and consistency of post-disaster assessments.
 
 approach: |
-  Describe how you'll approach the problem. A bulleted plan works well:
-
-  - Step 1 — what you'll build, collect, or analyze first
-  - Step 2 — the next phase of the work
-  - Step 3 — how you'll evaluate or test
-  - Step 4 — how you'll communicate the results
-
-  Mention the specific tools, datasets, or methods you'll use.
+  Step 1: Collect and organize post-disaster building images from sources such as FEMA, NOAA, and PEER datasets. Label the images into damage categories such as safe, restricted use, and unsafe using annotation tools like Roboflow or Label Studio.
+Step 2: Train and fine-tune a convolutional neural network (CNN) model such as ResNet-50 or MobileNetV2 using Python, TensorFlow, or PyTorch to classify building damage severity.
+Step 3: Evaluate the model’s performance using metrics such as accuracy, precision, recall, F1-score, and confusion matrices. Compare the AI predictions to traditional ATC-20 manual assessment standards.
+Step 4: Develop a mobile-friendly web application using Flask or FastAPI with a React frontend that allows users to upload building images and receive real-time damage classifications. Present findings through reports, demonstrations, and presentations.
 
 outcome: |
-  What do you expect to produce by the end of the program? A working prototype?
-  A research poster? A short paper? Describe the artifacts and what you hope
-  others will be able to do with them.
+  By the end of the program, I expect to develop a working AI-powered prototype capable of classifying structural damage from building images. The final project will include an annotated image dataset, a trained deep learning model, and a mobile-friendly web application that can provide rapid damage assessments with confidence scores.
 
+In addition, I plan to produce a technical report, presentation slides, and a research poster summarizing the project findings, methodology, and performance results. The goal is for others to use this research as a foundation for improving emergency response systems and exploring how AI can support faster and more reliable disaster recovery efforts
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
