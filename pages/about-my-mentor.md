@@ -3,17 +3,6 @@ layout: mentor
 title: About My Mentors
 permalink: /about-my-mentor.html
 
-graduate_mentor:
-  name: John Tanimola
-  title: PhD Candidate, Computer Engineering
-  image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
-  bio: |
-   John Olajide Tanimola is a Ph.D. student in Computer Engineering at Morgan State University and holds a Master of Science degree. As the graduate mentor for our CEAMLS      Summer AI Research Internship, he provides guidance in artificial intelligence, machine learning, computer vision, and engineering research. Throughout the program, he      has supported our team in conducting literature reviews, developing research methodologies, implementing deep learning models, and presenting research findings. His         mentorship has played an important role in helping us develop both technical skills and a deeper understanding of the research process.
-
-
-    Outside of research, John is a very great guy who likes to go watch soccer in his freetime
-
 faculty_mentor:
   name: Dr. Steve Efe
   title: Associate Professor, School of Civil Engineering
@@ -24,4 +13,15 @@ faculty_mentor:
 
     Dr. Steve Efe has mentored many SAIRI students and is a champion for broadening
     participation in computing.
+
+    graduate_mentor:
+  name: John Tanimola
+  title: PhD Candidate, Computer Engineering
+  image: /assets/images/assets/images/Screenshot 2026-06-23 105537.png
+  website: https://example.com/alex-morgan
+  bio: |
+   John Olajide Tanimola is a Ph.D. student in Computer Engineering at Morgan State University and holds a Master of Science degree. As the graduate mentor for our CEAMLS      Summer AI Research Internship, he provides guidance in artificial intelligence, machine learning, computer vision, and engineering research. Throughout the program, he      has supported our team in conducting literature reviews, developing research methodologies, implementing deep learning models, and presenting research findings. His         mentorship has played an important role in helping us develop both technical skills and a deeper understanding of the research process.
+
+
+    Outside of research, John is a very great guy who likes to go watch soccer in his freetime
 ---
