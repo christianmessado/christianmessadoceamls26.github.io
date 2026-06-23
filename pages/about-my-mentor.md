@@ -17,7 +17,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Steve Efe
   title: Associate Professor, School of Civil Engineering
-  image: /assets/images/faculty-mentor.svg
+  image: assets/images/Screenshot 2026-06-23 105527.png
   website: https://example.com/pat-nguyen
   bio: |
     Dr. Steve Efe is a dedicated professor in the Civil Engineering Department who is passionate about innovation, collaboration, and student mentorship. Known for his calm and approachable personality, he creates a welcoming environment that encourages teamwork, creativity, and problem-solving among students and researchers. Throughout his career, he has been nominated for multiple awards in recognition of his leadership, research contributions, and impact within the academic community. He is also deeply invested in helping future generations by mentoring and working closely with young individuals to support their academic, personal, and professional growth.
