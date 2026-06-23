@@ -28,10 +28,10 @@ about:
       description: Philosophy Books and The Bible — both equally inspiring.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
-    - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
-    - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+    - image: assets/images/reading.jpg
+      caption: Reading is my hobby.
+    - image: assets/images/images.jpg
+      caption: love to make art will put some of my peices in here soon.
+    - image: assets/images/biking.jpg
+      caption: biking is also another hobby of mine.
 ---
