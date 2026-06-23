@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Christian A. Messado
   role: Senior, Computer Science
-  image: /assets/images/profile.svg
+  image: /assets/images/Screenshot 2026-06-23 105519.png
   linkedin: https://www.linkedin.com/in/christian-messado-040901314/
   bio: |
     Greetings All! My name is Christian A. Messado, a Computer Science student in the CEAMLS SAIRI 2026 Summer Research program.
