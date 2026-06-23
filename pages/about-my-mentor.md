@@ -14,7 +14,7 @@ faculty_mentor:
     Dr. Steve Efe has mentored many SAIRI students and is a champion for broadening
     participation in computing.
 
-    graduate_mentor:
+graduate_mentor:
   name: John Tanimola
   title: PhD Candidate, Computer Engineering
   image: /assets/images/assets/images/Screenshot 2026-06-23 105537.png
