@@ -9,12 +9,10 @@ graduate_mentor:
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/alex-morgan
   bio: |
-    John is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+   John Olajide Tanimola is a Ph.D. student in Computer Engineering at Morgan State University and holds a Master of Science degree. As the graduate mentor for our CEAMLS      Summer AI Research Internship, he provides guidance in artificial intelligence, machine learning, computer vision, and engineering research. Throughout the program, he      has supported our team in conducting literature reviews, developing research methodologies, implementing deep learning models, and presenting research findings. His         mentorship has played an important role in helping us develop both technical skills and a deeper understanding of the research process.
 
-    Outside of research, John organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+
+    Outside of research, John is a very great guy who likes to go watch soccer in his freetime
 
 faculty_mentor:
   name: Dr. Steve Efe
