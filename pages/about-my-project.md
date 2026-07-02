@@ -4,7 +4,7 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Post-Disaster Building Damage Assessment AI
-project_title: "My SEAMLS 2026 Summer Research Project"
+project_title: "My CEAMLS 2026 Summer Research Project"
 
 problem: |
   Natural disasters such as hurricanes and earthquakes can cause severe structural damage to buildings, making it difficult for emergency responders to quickly determine      which structures are safe or unsafe. Traditional building inspections often require trained professionals to manually assess damage, which can be time-consuming during      emergencies when rapid decision-making is critical. Delays in assessment can increase safety risks for both responders and affected communities.
@@ -24,10 +24,10 @@ outcome: |
   final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Dr. Steve Efe
+  name: John Tanimola
   linkedin: https://www.linkedin.com/in/drsteveefe/
 
 faculty_mentor:
-  name: John Tanimola
+  name: Dr. Steve Efe
   linkedin: https://www.linkedin.com/in/johnolajidetanimola-mnse-reg/
 ---
